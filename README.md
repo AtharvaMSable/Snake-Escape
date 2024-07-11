@@ -1,4 +1,4 @@
-# EKANS, Its Snake, but you're the food here. 
+# Snake Escape, Its Snake, but you're the food here. 
 
 The source code is present inside `sketch/`.
 ## Main concept: 
